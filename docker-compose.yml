@@ -1,0 +1,6 @@
+version : "3.3"
+services :
+  web :
+     image : bsal694/my-notes-apps
+     ports :
+         - "8000:8000"
